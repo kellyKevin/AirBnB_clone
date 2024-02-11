@@ -4,13 +4,19 @@ Partner 2 is here (RichesUR7) www.github.com/RichesUR7
 
 
 AirBnB Clone
+
+
 This project is an implementation of a command-line interface (CLI) for an AirBnB clone. It provides functionalities for managing objects in a persistent storage system, including creation, updating, deletion, and querying of various types of objects such as User, Place, Review, and Amenity.
 
 Command Interpreter
+
+
 How to Start It
 To start the command interpreter, follow these steps:
 
 Clone the repository from GitHub:
+
+
 bash
 Copy code
 git clone https://github.com/your_username/AirBnB_clone.git
@@ -22,7 +28,10 @@ Run the command interpreter:
 bash
 Copy code
 ./console.py
+
 How to Use It
+
+
 Once the command interpreter is running, you can use various commands to interact with the system. Some of the available commands include:
 
 create: Create a new instance of a specified class.
@@ -35,6 +44,8 @@ quit or EOF: Exit the command interpreter.
 For a complete list of available commands and their usage, refer to the documentation or use the help command within the interpreter.
 
 Examples
+
+
 Here are some examples of how to use the command interpreter:
 
 Create a new User instance:
